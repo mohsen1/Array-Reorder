@@ -1,0 +1,10 @@
+{
+  "name": "Reorder an array based on another array of numbers",
+
+  "description": "This reorder JavaScript arrays for fun or serious use",
+
+  "keywords": [
+    "array",
+    "javascript",
+  ]
+}
